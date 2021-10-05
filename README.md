@@ -34,15 +34,7 @@ https://docs.python.org/3/library/venv.html
   ## Creating in Anaconda
   https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-  
-## Credits
-
-- Nobel Xavier
-- Krish Naik [https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig]
-- Kaggle
-- Google
-
-  
+    
 ## Project Screenshots
 
 ![App Screenshot](car-becho.gif)
@@ -51,3 +43,9 @@ https://docs.python.org/3/library/venv.html
 ## 🔗 Heroku Links
 [![Heroku](https://img.shields.io/badge/Heroku-Car--Becho-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carbechoapp.herokuapp.com/)
 
+## Credits
+
+- Nobel Xavier
+- Krish Naik [https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig]
+- Kaggle
+- Google
