@@ -1,13 +1,9 @@
- Overview
+# Overview
 We have used various machine Learning Algorithms from Sklearn such as Dession Tree,Random Forest,XGBoost.
 Our POC(proof of concepts) was to get approx selling price of car.
 
 # Motivation
 When we need to sell our car we are not sure how much price to keep for sell it faster.car-becho app will help you to found out how much price you can get for current market !!!.
-
-
-
-
 
 
 ## Tech Stack
