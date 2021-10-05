@@ -45,7 +45,7 @@ https://docs.python.org/3/library/venv.html
   
 ## Project Screenshots
 
-![App Screenshot](sell.png)
+![App Screenshot](car-becho.gif)
 
   
 ## 🔗 Links
