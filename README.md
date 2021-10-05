@@ -1,5 +1,5 @@
  Overview
-We have used various machine Learning Algorithms from Sklearn such as Dession Tree,Random Forest,Extra tree regression.
+We have used various machine Learning Algorithms from Sklearn such as Dession Tree,Random Forest,XGBoost.
 Our POC(proof of concepts) was to get approx selling price of car.
 
 # Motivation
@@ -45,7 +45,7 @@ https://docs.python.org/3/library/venv.html
   
 ## Project Screenshots
 
-![App Screenshot](https://github.com/AbdurRahmanSh/Restaurant_rating/blob/main/rating.gif)
+![App Screenshot](sell.png)
 
   
 ## 🔗 Links
