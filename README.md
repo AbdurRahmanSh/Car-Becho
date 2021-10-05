@@ -48,6 +48,6 @@ https://docs.python.org/3/library/venv.html
 ![App Screenshot](car-becho.gif)
 
   
-## 🔗 Links
+## 🔗 Heroku Links
 [![Heroku](https://img.shields.io/badge/Heroku-Car--Becho-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carbechoapp.herokuapp.com/)
 
