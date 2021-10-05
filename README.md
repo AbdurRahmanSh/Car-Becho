@@ -49,5 +49,5 @@ https://docs.python.org/3/library/venv.html
 
   
 ## 🔗 Links
-[![Heroku](https://img.shields.io/badge/Heroku-Car--Becho-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://car-price-001.herokuapp.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-Car--Becho-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://carbechoapp.herokuapp.com/)
 
